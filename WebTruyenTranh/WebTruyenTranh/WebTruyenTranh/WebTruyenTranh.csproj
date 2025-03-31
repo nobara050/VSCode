@@ -14,6 +14,8 @@
   <ItemGroup>
     <Folder Include="uploads\" />
     <Folder Include="wwwroot\admin\uploads\" />
+    <Folder Include="wwwroot\css\" />
+    <Folder Include="wwwroot\js\" />
   </ItemGroup>
 
 </Project>

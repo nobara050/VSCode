@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|c:\\users\\nguye\\downloads\\asp_web\\webtruyentranh\\webtruyentranh\\webtruyentranh\\wwwroot\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|solutionrelative:webtruyentranh\\wwwroot\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|c:\\users\\nguye\\downloads\\asp_web\\webtruyentranh\\webtruyentranh\\webtruyentranh\\areas\\admin\\views\\manga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|solutionrelative:webtruyentranh\\areas\\admin\\views\\manga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\css\\style.css",
-              "RelativeDocumentMoniker": "WebTruyenTranh\\wwwroot\\admin\\css\\style.css",
-              "ToolTip": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\css\\style.css",
-              "RelativeToolTip": "WebTruyenTranh\\wwwroot\\admin\\css\\style.css",
-              "ViewState": "AgIAANcIAAAAAAAAAAAvwO0IAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-31T02:43:54.054Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\Manga\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenTranh\\Areas\\Admin\\Views\\Manga\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\Manga\\Index.cshtml",
+              "RelativeToolTip": "WebTruyenTranh\\Areas\\Admin\\Views\\Manga\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwIkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T17:57:18.098Z",
               "EditorCaption": ""
             }
           ]

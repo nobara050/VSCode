@@ -31,7 +31,6 @@ namespace WebTruyenTranh.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(MangaModel manga)
         {
             if (ModelState.IsValid)
@@ -64,6 +63,9 @@ namespace WebTruyenTranh.Areas.Admin.Controllers
                     manga.BackgroundImage = "/uploads/" + uniqueFileName;
                 }
 
+                // Đặt UserId luôn bằng 0 (admin khi thêm bằng tài khoản admin)
+                manga.UserId = 0;
+
                 _context.Mangas.Add(manga);
                 await _context.SaveChangesAsync();
                 return RedirectToAction("Index");
@@ -81,33 +83,81 @@ namespace WebTruyenTranh.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(MangaModel manga)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> EditDo(MangaModel manga)
         {
-            if (ModelState.IsValid)
-            {
-                _context.Mangas.Update(manga);
-                _context.SaveChanges();
-                return RedirectToAction(nameof(Index));
-            }
-            return View(manga);
+                // Tìm Manga trong cơ sở dữ liệu
+                var existingManga = await _context.Mangas.FindAsync(manga.MangaId);
+                if (existingManga == null)
+                {
+                    return NotFound();
+                }
+
+                // Cập nhật thông tin cơ bản
+                existingManga.Title = manga.Title;
+                existingManga.Description = manga.Description;
+                existingManga.Status = manga.Status;
+
+                // Kiểm tra ảnh bìa mới
+                if (manga.CoverImageFile != null)
+                {
+                    string uploadsFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
+                    Directory.CreateDirectory(uploadsFolder); // Đảm bảo thư mục tồn tại
+
+                    // Xóa ảnh cũ nếu có
+                    if (!string.IsNullOrEmpty(existingManga.CoverImage))
+                    {
+                        string oldFilePath = Path.Combine(_webHostEnvironment.WebRootPath, existingManga.CoverImage.TrimStart('/'));
+                        if (System.IO.File.Exists(oldFilePath))
+                        {
+                            System.IO.File.Delete(oldFilePath);
+                        }
+                    }
+
+                    // Lưu ảnh bìa mới
+                    string uniqueFileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(manga.CoverImageFile.FileName);
+                    string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await manga.CoverImageFile.CopyToAsync(fileStream);
+                    }
+                    existingManga.CoverImage = "/uploads/" + uniqueFileName; // Cập nhật đường dẫn ảnh bìa
+                }
+
+
+                // Lưu các thay đổi vào cơ sở dữ liệu
+                _context.Mangas.Update(existingManga);
+                await _context.SaveChangesAsync();
+
+                return RedirectToAction(nameof(Index)); // Chuyển hướng về trang Index sau khi lưu
         }
+
 
         // Xóa
-        public IActionResult Delete(int id)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(int id)
         {
-            var manga = _context.Mangas.Find(id);
-            if (manga == null) return NotFound();
-            return View(manga);
-        }
+            var manga = await _context.Mangas.FindAsync(id);
+            if (manga == null)
+            {
+                return NotFound();
+            }
 
-        [HttpPost, ActionName("Delete")]
-        public IActionResult DeleteConfirmed(int id)
-        {
-            var manga = _context.Mangas.Find(id);
-            if (manga == null) return NotFound();
+            // Xóa ảnh bìa nếu có
+            if (!string.IsNullOrEmpty(manga.CoverImage))
+            {
+                string filePath = Path.Combine(_webHostEnvironment.WebRootPath, manga.CoverImage.TrimStart('/'));
+                if (System.IO.File.Exists(filePath))
+                {
+                    System.IO.File.Delete(filePath);
+                }
+            }
 
+            // Xóa manga khỏi cơ sở dữ liệu
             _context.Mangas.Remove(manga);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Index));
         }
 

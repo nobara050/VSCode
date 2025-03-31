@@ -665,8 +665,8 @@
       "PackagePath": "staticwebassets\\admin\\img\\svg\\thumbnail.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\js\\script.js",
-      "PackagePath": "staticwebassets\\admin\\js\\script.js"
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
     },
     {
       "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\plugins\\chart.min.js",
@@ -681,16 +681,8 @@
       "PackagePath": "staticwebassets\\admin\\plugins\\feather.min.js.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
       "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
       "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -921,16 +913,76 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg"
+    },
+    {
       "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\511110bf-b78f-4088-b451-7909997639ad_3.png",
       "PackagePath": "staticwebassets\\uploads\\511110bf-b78f-4088-b451-7909997639ad_3.png"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg"
     },
     {
       "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\67492f07-a1ee-462f-a5a9-103d01b11171_452435043_2272410046431338_54045907679483825_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\67492f07-a1ee-462f-a5a9-103d01b11171_452435043_2272410046431338_54045907679483825_n.jpg"
     },
     {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png",
+      "PackagePath": "staticwebassets\\uploads\\7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg"
+    },
+    {
       "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\afdc47aa-aaeb-46f3-9754-cbb7b1cb0236_452435043_2272410046431338_54045907679483825_n.jpg",
       "PackagePath": "staticwebassets\\uploads\\afdc47aa-aaeb-46f3-9754-cbb7b1cb0236_452435043_2272410046431338_54045907679483825_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png",
+      "PackagePath": "staticwebassets\\uploads\\eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\nocover.png",
+      "PackagePath": "staticwebassets\\uploads\\nocover.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebTruyenTranh.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

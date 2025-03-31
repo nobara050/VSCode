@@ -2,10 +2,10 @@
 @model MangaModel
 
 @{
-    ViewData["Title"] = "Thêm Truyện";
+    ViewData["Title"] = "Sửa Truyện";
 }
 
-<h2 class="text-center">Thêm Truyện Mới</h2>
+<h2 class="text-center">Sửa Thông Tin Truyện</h2>
 
 <style>
     .image-preview {
@@ -18,18 +18,19 @@
         border-radius: 10px; /* Bo góc ảnh */
     }
 
-    .image-preview img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover; /* Cắt ảnh để giữ đúng tỷ lệ */
-    }
+        .image-preview img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Cắt ảnh để giữ đúng tỷ lệ */
+        }
 
 </style>
 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <form asp-area="Admin" asp-controller="Manga" asp-action="Create" method="post" enctype="multipart/form-data">
+            <form asp-action="EditDo" method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="MangaId" />
                 <div class="mb-3">
                     <label asp-for="Title" class="form-label">Tiêu đề</label>
                     <input asp-for="Title" class="form-control">
@@ -47,7 +48,7 @@
                     <label asp-for="CoverImageFile" class="form-label">Ảnh bìa</label>
                     <input asp-for="CoverImageFile" type="file" class="form-control" accept="image/*" onchange="previewImage(event, 'coverPreview')">
                     <div class="image-preview mt-2">
-                        <img id="coverPreview" src="#" alt="Xem trước ảnh bìa" style="display: none; width: 100%; max-width: 300px; height: auto; border-radius: 10px;">
+                        <img id="coverPreview" src="@Model.CoverImage" alt="Xem trước ảnh bìa" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;">
                     </div>
                 </div>
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LEmGJpyHrHqDyEtV8GKwsnph3LeAtSmS1/Nsh7VbjSs=",
+  "Hash": "gQ/ck+GEnYcIvFUNpW8PN2c93enMZq4BnXw5puTO7mo=",
   "Source": "WebTruyenTranh",
   "BasePath": "_content/WebTruyenTranh",
   "Mode": "Default",
@@ -3524,12 +3524,12 @@
       "OriginalItemSpec": "wwwroot\\admin\\img\\svg\\thumbnail.svg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\js\\script.js",
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\js\\scripts.js",
       "SourceId": "WebTruyenTranh",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
       "BasePath": "_content/WebTruyenTranh",
-      "RelativePath": "admin/js/script#[.{fingerprint}]?.js",
+      "RelativePath": "admin/js/scripts#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3538,11 +3538,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mc20g605hx",
-      "Integrity": "5jOG5nTZ1qgYPGc03eiQSHsgDF1roz2WY4I2KkonSVA=",
+      "Fingerprint": "ii7weasd4e",
+      "Integrity": "9ttcbtqrYoW19Ox2QiZ9jsjxMk1osWhVneAHBne305I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\admin\\js\\script.js"
+      "OriginalItemSpec": "wwwroot\\admin\\js\\scripts.js"
     },
     {
       "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\plugins\\chart.min.js",
@@ -3608,27 +3608,6 @@
       "OriginalItemSpec": "wwwroot\\admin\\plugins\\feather.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\css\\site.css",
-      "SourceId": "WebTruyenTranh",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
-      "BasePath": "_content/WebTruyenTranh",
-      "RelativePath": "css/site#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
       "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\favicon.ico",
       "SourceId": "WebTruyenTranh",
       "SourceType": "Discovered",
@@ -3648,27 +3627,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\js\\site.js",
-      "SourceId": "WebTruyenTranh",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
-      "BasePath": "_content/WebTruyenTranh",
-      "RelativePath": "js/site#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
       "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -4868,6 +4826,90 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbz8su09sz",
+      "Integrity": "33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/0814c94c-a78b-48cf-86b6-c313135a0016_img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbz8su09sz",
+      "Integrity": "33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/20730a1d-9e99-4e32-a678-8d448ec94462_img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbz8su09sz",
+      "Integrity": "33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbz8su09sz",
+      "Integrity": "33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\511110bf-b78f-4088-b451-7909997639ad_3.png",
       "SourceId": "WebTruyenTranh",
       "SourceType": "Discovered",
@@ -4887,6 +4929,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\511110bf-b78f-4088-b451-7909997639ad_3.png"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/5187f685-8a64-45c5-8de4-3651157a4a1a_img2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvp4x7124q",
+      "Integrity": "CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/51cc7f3e-8415-43ef-af0e-414d44212f43_img2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvp4x7124q",
+      "Integrity": "CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg"
     },
     {
       "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\67492f07-a1ee-462f-a5a9-103d01b11171_452435043_2272410046431338_54045907679483825_n.jpg",
@@ -4910,6 +4994,69 @@
       "OriginalItemSpec": "wwwroot\\uploads\\67492f07-a1ee-462f-a5a9-103d01b11171_452435043_2272410046431338_54045907679483825_n.jpg"
     },
     {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbz8su09sz",
+      "Integrity": "33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6i5qw8jswy",
+      "Integrity": "ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/9196a23b-f72d-4dc4-a085-238cd91bb89f_img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbz8su09sz",
+      "Integrity": "33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\afdc47aa-aaeb-46f3-9754-cbb7b1cb0236_452435043_2272410046431338_54045907679483825_n.jpg",
       "SourceId": "WebTruyenTranh",
       "SourceType": "Discovered",
@@ -4929,6 +5076,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\afdc47aa-aaeb-46f3-9754-cbb7b1cb0236_452435043_2272410046431338_54045907679483825_n.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/ceb53d40-43b4-46de-924a-19a9e2729e38_img2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvp4x7124q",
+      "Integrity": "CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbz8su09sz",
+      "Integrity": "33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbz8su09sz",
+      "Integrity": "33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/eb0aa553-68ce-46cc-a371-9f165400a81a_nocover#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6i5qw8jswy",
+      "Integrity": "ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvp4x7124q",
+      "Integrity": "CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\nocover.png",
+      "SourceId": "WebTruyenTranh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\",
+      "BasePath": "_content/WebTruyenTranh",
+      "RelativePath": "uploads/nocover#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6i5qw8jswy",
+      "Integrity": "ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\nocover.png"
     }
   ],
   "Endpoints": [
@@ -4955,7 +5228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 02:44:18 GMT"
+          "Value": "Mon, 31 Mar 2025 13:24:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5000,7 +5273,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 02:44:18 GMT"
+          "Value": "Mon, 31 Mar 2025 13:24:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18463,8 +18736,8 @@
       ]
     },
     {
-      "Route": "admin/js/script.js",
-      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\js\\script.js",
+      "Route": "admin/js/scripts.ii7weasd4e.js",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\js\\scripts.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18473,7 +18746,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16058"
+          "Value": "20138"
         },
         {
           "Name": "Content-Type",
@@ -18481,48 +18754,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5jOG5nTZ1qgYPGc03eiQSHsgDF1roz2WY4I2KkonSVA=\""
+          "Value": "\"9ttcbtqrYoW19Ox2QiZ9jsjxMk1osWhVneAHBne305I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 25 Jun 2021 04:20:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5jOG5nTZ1qgYPGc03eiQSHsgDF1roz2WY4I2KkonSVA="
-        }
-      ]
-    },
-    {
-      "Route": "admin/js/script.mc20g605hx.js",
-      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\js\\script.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16058"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5jOG5nTZ1qgYPGc03eiQSHsgDF1roz2WY4I2KkonSVA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 25 Jun 2021 04:20:26 GMT"
+          "Value": "Mon, 31 Mar 2025 14:15:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18532,15 +18768,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mc20g605hx"
+          "Value": "ii7weasd4e"
         },
         {
           "Name": "label",
-          "Value": "admin/js/script.js"
+          "Value": "admin/js/scripts.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5jOG5nTZ1qgYPGc03eiQSHsgDF1roz2WY4I2KkonSVA="
+          "Value": "sha256-9ttcbtqrYoW19Ox2QiZ9jsjxMk1osWhVneAHBne305I="
+        }
+      ]
+    },
+    {
+      "Route": "admin/js/scripts.js",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ttcbtqrYoW19Ox2QiZ9jsjxMk1osWhVneAHBne305I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:15:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ttcbtqrYoW19Ox2QiZ9jsjxMk1osWhVneAHBne305I="
         }
       ]
     },
@@ -18791,88 +19064,6 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 04:51:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 04:51:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\favicon.ico",
       "Selectors": [],
@@ -18951,88 +19142,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 04:51:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 04:51:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
         }
       ]
     },
@@ -23711,6 +23820,334 @@
       ]
     },
     {
+      "Route": "uploads/00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 16:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.zbz8su09sz.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 16:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbz8su09sz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:07:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0814c94c-a78b-48cf-86b6-c313135a0016_img1.zbz8su09sz.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:07:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbz8su09sz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 16:33:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/20730a1d-9e99-4e32-a678-8d448ec94462_img1.zbz8su09sz.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 16:33:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbz8su09sz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:14:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.zbz8su09sz.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:14:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbz8su09sz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
       "Route": "uploads/511110bf-b78f-4088-b451-7909997639ad_3.png",
       "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\511110bf-b78f-4088-b451-7909997639ad_3.png",
       "Selectors": [],
@@ -23789,6 +24226,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Slkq/NjKWjBYQZpbJhe+hZMPBi5AA1zXrXApRNvgwQ0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 12:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5187f685-8a64-45c5-8de4-3651157a4a1a_img2.uvp4x7124q.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 12:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvp4x7124q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:30:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/51cc7f3e-8415-43ef-af0e-414d44212f43_img2.uvp4x7124q.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:30:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvp4x7124q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI="
         }
       ]
     },
@@ -23875,6 +24476,252 @@
       ]
     },
     {
+      "Route": "uploads/6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:54:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.zbz8su09sz.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:54:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbz8su09sz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.6i5qw8jswy.png",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 17:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6i5qw8jswy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 17:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 16:49:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.zbz8su09sz.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 16:49:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbz8su09sz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
       "Route": "uploads/afdc47aa-aaeb-46f3-9754-cbb7b1cb0236_452435043_2272410046431338_54045907679483825_n.jpg",
       "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\afdc47aa-aaeb-46f3-9754-cbb7b1cb0236_452435043_2272410046431338_54045907679483825_n.jpg",
       "Selectors": [],
@@ -23953,6 +24800,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-uC2znFkczq4f18ySLV6hcWtLEbqSff/0rc8tbczk464="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 12:54:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ceb53d40-43b4-46de-924a-19a9e2729e38_img2.uvp4x7124q.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 12:54:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvp4x7124q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 12:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.zbz8su09sz.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 12:49:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbz8su09sz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 16:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.zbz8su09sz.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 16:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbz8su09sz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-33grJgsdFkJoEZviF5tkTKxpsZNEJYRhJh+yPl99lQk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.6i5qw8jswy.png",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 17:13:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6i5qw8jswy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 17:13:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:09:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.uvp4x7124q.jpg",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 13:09:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvp4x7124q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CinTVY+PA4AraH13Bxkc3odL438dackmNJtMNPRw4mI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/nocover.6i5qw8jswy.png",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\nocover.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 17:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6i5qw8jswy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/nocover.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/nocover.png",
+      "AssetFile": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\nocover.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 17:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ovFOEZdWCW/6oCa5KHiFKHxn2mlxTbrZui9MwGMFlLc="
         }
       ]
     },

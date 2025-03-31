@@ -89,3 +89,4 @@ C:\Users\nguye\Downloads\ASP_WEB\WebTruyenTranh\WebTruyenTranh\WebTruyenTranh\bi
 C:\Users\nguye\Downloads\ASP_WEB\WebTruyenTranh\WebTruyenTranh\WebTruyenTranh\obj\Debug\net8.0\WebTruyenTranh.csproj.AssemblyReference.cache
 C:\Users\nguye\Downloads\ASP_WEB\WebTruyenTranh\WebTruyenTranh\WebTruyenTranh\obj\Debug\net8.0\WebTruye.19F0FDA5.Up2Date
 C:\Users\nguye\Downloads\ASP_WEB\WebTruyenTranh\WebTruyenTranh\WebTruyenTranh\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nguye\Downloads\ASP_WEB\WebTruyenTranh\WebTruyenTranh\WebTruyenTranh\obj\Debug\net8.0\WebTruyenTranh.sourcelink.json

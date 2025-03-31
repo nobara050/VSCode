@@ -17,7 +17,7 @@ namespace WebTruyenTranh.Areas.Admin.Models
         public string? Description { get; set; }  // Mô tả truyện
 
         [StringLength(1000)]
-        public string? CoverImage { get; set; }  // Ảnh bìa
+        public string? CoverImage { get; set; } = "/uploads/nocover.png"; // Ảnh bìa
 
         [StringLength(1000)]
         public string? BackgroundImage { get; set; }  // Ảnh nền

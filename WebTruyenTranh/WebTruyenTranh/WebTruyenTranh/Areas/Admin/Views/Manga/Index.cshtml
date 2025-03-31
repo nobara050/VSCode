@@ -2,7 +2,7 @@
 @model List<MangaModel>
 
 @{
-    ViewData["Title"] = "Danh sách truyện";
+    ViewData["Title"] = "Danh Sách Truyện";
 }
 
 <style>
@@ -18,7 +18,7 @@
         }
 </style>
 
-<div class="container py-4">
+<div class="container-fluid py-4">
     <h2 class="mb-4 text-center fw-bold text-dark">Danh sách truyện</h2>
 
     <div class="d-flex justify-content-start mb-3">
@@ -47,7 +47,7 @@
                         <td>@manga.MangaId</td>
                         <td class="text-start">@manga.Title</td>
                         <td>
-                            <img src="@manga.CoverImage" alt="Ảnh bìa" class="img-thumbnail rounded" style="max-width: 80px; height: auto;">
+                            <img src="@manga.CoverImage" alt="Ảnh bìa" class="img-thumbnail rounded w-100 h-100 object-fit-cover" style="max-width: 80px; max-height: 100px;">
                         </td>
                         <td>
                             <span class="badge bg-success">@manga.Status</span>
@@ -62,7 +62,7 @@
                                 <a class="btn btn-warning btn-sm shadow-sm action-btn" asp-area="Admin" asp-controller="Manga" asp-action="Edit" asp-route-id="@manga.MangaId">
                                     <i class="bi bi-pencil-square"></i> Sửa
                                 </a>
-                                <a class="btn btn-danger btn-sm shadow-sm action-btn" asp-area="Admin" asp-controller="Manga" asp-action="Delete" asp-route-id="@manga.MangaId">
+                                <a onclick="confirmDelete(@manga.MangaId)" class="btn btn-danger btn-sm shadow-sm action-btn">
                                     <i class="bi bi-trash"></i> Xóa
                                 </a>
                             </div>
@@ -71,8 +71,97 @@
                 }
             </tbody>
         </table>
+
+        <!-- Dialog xác nhận -->
+        <div id="deleteConfirmModal" class="modal" style="display: none;">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Xác nhận xóa</h5>
+                        <button type="button" class="btn-close" onclick="closeModal()">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Bạn có chắc chắn muốn xóa truyện này không?</p>
+                    </div>
+                    <div class="modal-footer">
+                        <form id="deleteForm" method="post">
+                            <button type="button" class="btn btn-secondary" onclick="closeModal()">Hủy</button>
+                            <button type="submit" class="btn btn-danger">Xóa</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Dialog xác nhận -->
+
     </div>
 </div>
+
+<style>
+    .modal {
+        position: fixed;
+        z-index: 999;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .modal-dialog {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        width: 400px;
+    }
+
+    .modal-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .modal-footer {
+        display: flex;
+        justify-content: flex-end;
+        gap: 10px;
+    }
+
+    .btn-close {
+        background: none;
+        border: none;
+        font-size: 20px;
+        cursor: pointer;
+    }
+</style>
+
+<script>
+    function confirmDelete(id) {
+        let form = document.getElementById("deleteForm");
+        form.action = "/Admin/Manga/Delete/" + id; // Cập nhật action form
+
+        let modal = document.getElementById("deleteConfirmModal");
+        modal.style.display = "block"; // Hiển thị modal
+    }
+
+    function closeModal() {
+        let modal = document.getElementById("deleteConfirmModal");
+        modal.style.display = "none"; // Ẩn modal
+    }
+
+    // Đóng modal khi nhấn bên ngoài
+    window.onclick = function(event) {
+        let modal = document.getElementById("deleteConfirmModal");
+        if (event.target === modal) {
+            closeModal();
+        }
+    }
+</script>
+
+
 
 
 

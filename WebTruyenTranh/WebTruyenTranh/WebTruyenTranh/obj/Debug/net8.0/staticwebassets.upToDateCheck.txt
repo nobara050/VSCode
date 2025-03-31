@@ -1,0 +1,232 @@
+wwwroot\admin\css\style.css
+wwwroot\admin\css\style.min.css
+wwwroot\admin\css\style.min.css.map
+wwwroot\admin\fonts\demo.html
+wwwroot\admin\fonts\Inter-Black.woff2
+wwwroot\admin\fonts\Inter-Bold.woff2
+wwwroot\admin\fonts\Inter-ExtraBold.woff2
+wwwroot\admin\fonts\Inter-ExtraLight.woff2
+wwwroot\admin\fonts\Inter-Light.woff2
+wwwroot\admin\fonts\Inter-Medium.woff2
+wwwroot\admin\fonts\Inter-Regular.woff2
+wwwroot\admin\fonts\Inter-SemiBold.woff2
+wwwroot\admin\fonts\Inter-Thin.woff2
+wwwroot\admin\fonts\stylesheet.css
+wwwroot\admin\img\avatar\Avatar.svg
+wwwroot\admin\img\avatar\avatar-2.svg
+wwwroot\admin\img\avatar\avatar-face-02.png
+wwwroot\admin\img\avatar\avatar-face-02.webp
+wwwroot\admin\img\avatar\avatar-face-03.png
+wwwroot\admin\img\avatar\avatar-face-03.webp
+wwwroot\admin\img\avatar\avatar-face-04.png
+wwwroot\admin\img\avatar\avatar-face-04.webp
+wwwroot\admin\img\avatar\avatar-face-05.png
+wwwroot\admin\img\avatar\avatar-face-05.webp
+wwwroot\admin\img\avatar\avatar-illustrated-01.png
+wwwroot\admin\img\avatar\avatar-illustrated-01.webp
+wwwroot\admin\img\avatar\avatar-illustrated-02.png
+wwwroot\admin\img\avatar\avatar-illustrated-02.webp
+wwwroot\admin\img\avatar\avatar-illustrated-03.png
+wwwroot\admin\img\avatar\avatar-illustrated-03.webp
+wwwroot\admin\img\avatar\avatar-illustrated-04.png
+wwwroot\admin\img\avatar\avatar-illustrated-04.webp
+wwwroot\admin\img\categories\01.jpg
+wwwroot\admin\img\categories\01.webp
+wwwroot\admin\img\categories\02.jpg
+wwwroot\admin\img\categories\02.webp
+wwwroot\admin\img\categories\03.jpg
+wwwroot\admin\img\categories\03.webp
+wwwroot\admin\img\categories\04.jpg
+wwwroot\admin\img\categories\04.webp
+wwwroot\admin\img\svg\404.svg
+wwwroot\admin\img\svg\baloon.svg
+wwwroot\admin\img\svg\Bulk\2 User.svg
+wwwroot\admin\img\svg\Bulk\3-User-gray.svg
+wwwroot\admin\img\svg\Bulk\3-User-white.svg
+wwwroot\admin\img\svg\Bulk\Activity.svg
+wwwroot\admin\img\svg\Bulk\AddUser.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Down.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Down2.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Down3.svg
+wwwroot\admin\img\svg\Bulk\Arrow-DownCircle.svg
+wwwroot\admin\img\svg\Bulk\Arrow-DownSquare.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Left.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Left2.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Left3.svg
+wwwroot\admin\img\svg\Bulk\Arrow-LeftCircle.svg
+wwwroot\admin\img\svg\Bulk\Arrow-LeftSquare.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Right.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Right2.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Right3.svg
+wwwroot\admin\img\svg\Bulk\Arrow-RightCircle.svg
+wwwroot\admin\img\svg\Bulk\Arrow-RightSquare.svg
+wwwroot\admin\img\svg\Bulk\Arrows-up-down.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Up.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Up2.svg
+wwwroot\admin\img\svg\Bulk\Arrow-Up3.svg
+wwwroot\admin\img\svg\Bulk\Arrow-UpCircle.svg
+wwwroot\admin\img\svg\Bulk\Arrow-UpSquare.svg
+wwwroot\admin\img\svg\Bulk\Bag 3.svg
+wwwroot\admin\img\svg\Bulk\Bag.svg
+wwwroot\admin\img\svg\Bulk\Bookmark.svg
+wwwroot\admin\img\svg\Bulk\Buy.svg
+wwwroot\admin\img\svg\Bulk\Calendar.svg
+wwwroot\admin\img\svg\Bulk\Call Missed.svg
+wwwroot\admin\img\svg\Bulk\Call Silent.svg
+wwwroot\admin\img\svg\Bulk\Call.svg
+wwwroot\admin\img\svg\Bulk\Calling.svg
+wwwroot\admin\img\svg\Bulk\Camera.svg
+wwwroot\admin\img\svg\Bulk\Category-gray.svg
+wwwroot\admin\img\svg\Bulk\Category-white.svg
+wwwroot\admin\img\svg\Bulk\Chart.svg
+wwwroot\admin\img\svg\Bulk\Chat.svg
+wwwroot\admin\img\svg\Bulk\Close Square.svg
+wwwroot\admin\img\svg\Bulk\Danger.svg
+wwwroot\admin\img\svg\Bulk\Delete.svg
+wwwroot\admin\img\svg\Bulk\Discount.svg
+wwwroot\admin\img\svg\Bulk\Discovery.svg
+wwwroot\admin\img\svg\Bulk\Document-gray.svg
+wwwroot\admin\img\svg\Bulk\Document-white.svg
+wwwroot\admin\img\svg\Bulk\Download.svg
+wwwroot\admin\img\svg\Bulk\Edit Square.svg
+wwwroot\admin\img\svg\Bulk\Edit-gray.svg
+wwwroot\admin\img\svg\Bulk\Edit-white.svg
+wwwroot\admin\img\svg\Bulk\Filter 2.svg
+wwwroot\admin\img\svg\Bulk\Filter.svg
+wwwroot\admin\img\svg\Bulk\Folder-gray.svg
+wwwroot\admin\img\svg\Bulk\Folder-white.svg
+wwwroot\admin\img\svg\Bulk\Game.svg
+wwwroot\admin\img\svg\Bulk\Graph.svg
+wwwroot\admin\img\svg\Bulk\Heart.svg
+wwwroot\admin\img\svg\Bulk\Hide.svg
+wwwroot\admin\img\svg\Bulk\Home-gray.svg
+wwwroot\admin\img\svg\Bulk\Home-white.svg
+wwwroot\admin\img\svg\Bulk\Image 3.svg
+wwwroot\admin\img\svg\Bulk\Image-gray.svg
+wwwroot\admin\img\svg\Bulk\Image-white.svg
+wwwroot\admin\img\svg\Bulk\Info Circle.svg
+wwwroot\admin\img\svg\Bulk\Info Square.svg
+wwwroot\admin\img\svg\Bulk\Location.svg
+wwwroot\admin\img\svg\Bulk\Lock.svg
+wwwroot\admin\img\svg\Bulk\Login.svg
+wwwroot\admin\img\svg\Bulk\Logout.svg
+wwwroot\admin\img\svg\Bulk\Menu-toggle-gray.svg
+wwwroot\admin\img\svg\Bulk\Menu-toggle-white.svg
+wwwroot\admin\img\svg\Bulk\Message-gray.svg
+wwwroot\admin\img\svg\Bulk\Message-white.svg
+wwwroot\admin\img\svg\Bulk\More Circle.svg
+wwwroot\admin\img\svg\Bulk\More Square.svg
+wwwroot\admin\img\svg\Bulk\Notification.svg
+wwwroot\admin\img\svg\Bulk\Notification-gray.svg
+wwwroot\admin\img\svg\Bulk\Paper Download.svg
+wwwroot\admin\img\svg\Bulk\Paper Fail.svg
+wwwroot\admin\img\svg\Bulk\Paper Negative.svg
+wwwroot\admin\img\svg\Bulk\Paper Plus.svg
+wwwroot\admin\img\svg\Bulk\Paper Upload.svg
+wwwroot\admin\img\svg\Bulk\Paper-gray.svg
+wwwroot\admin\img\svg\Bulk\Paper-white.svg
+wwwroot\admin\img\svg\Bulk\Password.svg
+wwwroot\admin\img\svg\Bulk\Play.svg
+wwwroot\admin\img\svg\Bulk\Plus.svg
+wwwroot\admin\img\svg\Bulk\Profile.svg
+wwwroot\admin\img\svg\Bulk\Scan.svg
+wwwroot\admin\img\svg\Bulk\Search.svg
+wwwroot\admin\img\svg\Bulk\Send.svg
+wwwroot\admin\img\svg\Bulk\Setting-gray.svg
+wwwroot\admin\img\svg\Bulk\Settings-line.svg
+wwwroot\admin\img\svg\Bulk\Setting-white.svg
+wwwroot\admin\img\svg\Bulk\Shield Done.svg
+wwwroot\admin\img\svg\Bulk\Shield Fail.svg
+wwwroot\admin\img\svg\Bulk\Show.svg
+wwwroot\admin\img\svg\Bulk\Star.svg
+wwwroot\admin\img\svg\Bulk\Swap.svg
+wwwroot\admin\img\svg\Bulk\Tick Square.svg
+wwwroot\admin\img\svg\Bulk\Ticket Star.svg
+wwwroot\admin\img\svg\Bulk\Ticket.svg
+wwwroot\admin\img\svg\Bulk\Time Square.svg
+wwwroot\admin\img\svg\Bulk\TimeCircle.svg
+wwwroot\admin\img\svg\Bulk\Unlock.svg
+wwwroot\admin\img\svg\Bulk\Upload.svg
+wwwroot\admin\img\svg\Bulk\Video.svg
+wwwroot\admin\img\svg\Bulk\Voice 3.svg
+wwwroot\admin\img\svg\Bulk\Voice.svg
+wwwroot\admin\img\svg\Bulk\Volume Down.svg
+wwwroot\admin\img\svg\Bulk\Volume Off.svg
+wwwroot\admin\img\svg\Bulk\Volume Up.svg
+wwwroot\admin\img\svg\Bulk\Wallet.svg
+wwwroot\admin\img\svg\Bulk\Work.svg
+wwwroot\admin\img\svg\customers.svg
+wwwroot\admin\img\svg\dropbox.svg
+wwwroot\admin\img\svg\GoogleDrive.svg
+wwwroot\admin\img\svg\image-frame.svg
+wwwroot\admin\img\svg\Logo.svg
+wwwroot\admin\img\svg\move.svg
+wwwroot\admin\img\svg\radio.svg
+wwwroot\admin\img\svg\thumbnail.svg
+wwwroot\admin\js\script.js
+wwwroot\admin\plugins\chart.min.js
+wwwroot\admin\plugins\feather.min.js
+wwwroot\admin\plugins\feather.min.js.map
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\uploads\511110bf-b78f-4088-b451-7909997639ad_3.png
+wwwroot\uploads\67492f07-a1ee-462f-a5a9-103d01b11171_452435043_2272410046431338_54045907679483825_n.jpg
+wwwroot\uploads\afdc47aa-aaeb-46f3-9754-cbb7b1cb0236_452435043_2272410046431338_54045907679483825_n.jpg

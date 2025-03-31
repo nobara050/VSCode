@@ -1,0 +1,80 @@
+﻿@using WebTruyenTranh.Areas.Admin.Models
+@model List<MangaModel>
+
+@{
+    ViewData["Title"] = "Danh sách truyện";
+}
+
+<style>
+    table {
+        background-color: white !important;
+    }
+    .action-btn {
+        transition: all 0.3s ease;
+    }
+
+        .action-btn:hover {
+            transform: scale(1.05);
+        }
+</style>
+
+<div class="container py-4">
+    <h2 class="mb-4 text-center fw-bold text-dark">Danh sách truyện</h2>
+
+    <div class="d-flex justify-content-start mb-3">
+        <a class="btn btn-dark shadow-sm" asp-area="Admin" asp-controller="Manga" asp-action="Create">
+            <i class="bi bi-plus-lg"></i> Thêm truyện
+        </a>
+    </div>
+
+    <div class="table-responsive-lg">
+        <table class="table table-hover shadow-sm rounded-3 overflow-hidden">
+            <thead class="text-white" style="background: linear-gradient(135deg, #343a40, #212529);">
+                <tr class="text-center">
+                    <th scope="col">MangaID</th>
+                    <th scope="col">Tên Truyện</th>
+                    <th scope="col">Ảnh bìa</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Người đăng</th>
+                    <th scope="col">Ngày tạo</th>
+                    <th scope="col">Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var manga in Model)
+                {
+                    <tr class="align-middle text-center" style="transition: all 0.3s ease;">
+                        <td>@manga.MangaId</td>
+                        <td class="text-start">@manga.Title</td>
+                        <td>
+                            <img src="@manga.CoverImage" alt="Ảnh bìa" class="img-thumbnail rounded" style="max-width: 80px; height: auto;">
+                        </td>
+                        <td>
+                            <span class="badge bg-success">@manga.Status</span>
+                        </td>
+                        <td>@manga.UserId</td>
+                        <td>@manga.CreatedAt.ToString("dd/MM/yyyy")</td>
+                        <td>
+                            <div class="d-flex justify-content-center gap-2">
+                                <a class="btn btn-success btn-sm shadow-sm action-btn" asp-area="Admin" asp-controller="Manga" asp-action="Upload" asp-route-id="@manga.MangaId">
+                                    <i class="bi bi-upload"></i> Upload
+                                </a>
+                                <a class="btn btn-warning btn-sm shadow-sm action-btn" asp-area="Admin" asp-controller="Manga" asp-action="Edit" asp-route-id="@manga.MangaId">
+                                    <i class="bi bi-pencil-square"></i> Sửa
+                                </a>
+                                <a class="btn btn-danger btn-sm shadow-sm action-btn" asp-area="Admin" asp-controller="Manga" asp-action="Delete" asp-route-id="@manga.MangaId">
+                                    <i class="bi bi-trash"></i> Xóa
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+
+

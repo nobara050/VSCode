@@ -1,0 +1,12 @@
+- Quản lý người dùng User: (UserId, Username, Email, Password phải mã hóa trước khi lưu vào, Avatar, Role, Balance, CreatedAt) Duy Bùi
+- Quản lý truyện=> Bấm vào để quản lý Chapter (Giống quản lý hóa đơn => chi tiết hóa đơn): 
+	Manga (MangaId, Title, Description, CoverImage, BackgroundImage, Status, UserId,  CreatedAt) 
+	Chapter (MangaId, ChapterId, Title, Price, CreatedAt)
+	Content (MangaId, ChapterId, ContentId, Image)
+- Quản lý hóa đơn => chi tiết hóa đơn Duy Nguyễn
+	Transaction (TransactionId, UserId, MangaId, ChapterId, Amount, CreatedAt, Status, UserId_Receive)
+- Quản lý thể loại Genre: (GenreId, Name) => Làm sau Bridge_Manga_Genre (MangaId, GenreId) Huy Võ
+- Quản lý tác giả Author: (AuthorId, Name) => Làm sau Bridge_Manga_Author (MangaId, AuthorId) Huy Võ 
+- Quản lý slider Slider (SliderId, MangaId, Image) Duy Nguyễn
+- Quản lý thống kê (khoan làm)
+- Quản lý bình luận (ưu tiên thấp)

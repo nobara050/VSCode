@@ -1,0 +1,29 @@
+﻿@using WebTruyenTranh.Areas.Admin.Models
+@model List<GenreModel>
+
+<h2>Danh sách thể loại</h2>
+
+<a class="btn btn-success" href="/Genre/Create">➕ Thêm mới</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Tên thể loại</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var genre in Model)
+        {
+            <tr>
+                <td>@genre.GenreId</td>
+                <td>@genre.Name</td>
+                <td>
+                    <a class="btn btn-primary" href="/Genre/Edit/@genre.GenreId">✏ Sửa</a>
+                    <a class="btn btn-danger" href="/Genre/Delete/@genre.GenreId">🗑 Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

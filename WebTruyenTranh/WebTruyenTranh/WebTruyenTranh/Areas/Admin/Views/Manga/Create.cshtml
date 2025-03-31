@@ -1,0 +1,67 @@
+﻿@using WebTruyenTranh.Areas.Admin.Models
+@model MangaModel
+
+<h2 class="text-center">Thêm Manga Mới</h2>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <form asp-area="Admin" asp-controller="Manga" asp-action="Create" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label asp-for="Title" class="form-label">Tiêu đề</label>
+                    <input asp-for="Title" class="form-control">
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Description" class="form-label">Mô tả</label>
+                    <textarea asp-for="Description" class="form-control"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="CoverImageFile" class="form-label">Ảnh bìa</label>
+                    <input asp-for="CoverImageFile" type="file" class="form-control">
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="BackgroundImageFile" class="form-label">Ảnh nền</label>
+                    <input asp-for="BackgroundImageFile" type="file" class="form-control">
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Status" class="form-label">Trạng thái</label>
+                    <select asp-for="Status" class="form-select">
+                        <option value="Đang ra">Đang ra</option>
+                        <option value="Hoàn thành">Hoàn thành</option>
+                        <option value="Tạm ngưng">Tạm ngưng</option>
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="UserId" class="form-label">ID Người tạo</label>
+                    <input asp-for="UserId" class="form-control" type="number" required>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Lưu</button>
+                <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <strong>Lỗi:</strong> Có lỗi xảy ra. Vui lòng kiểm tra lại!
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+

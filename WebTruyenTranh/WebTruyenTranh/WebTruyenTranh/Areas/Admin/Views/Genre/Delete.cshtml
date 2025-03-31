@@ -1,0 +1,12 @@
+﻿@using WebTruyenTranh.Areas.Admin.Models
+@model GenreModel
+
+<h2>Xóa thể loại</h2>
+
+<p>Bạn có chắc muốn xóa thể loại <strong>@Model.Name</strong>?</p>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="GenreId" />
+    <button type="submit" class="btn btn-danger">🗑 Xóa</button>
+    <a class="btn btn-secondary" href="/Genre/Index">🔙 Quay lại</a>
+</form>

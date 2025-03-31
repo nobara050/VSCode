@@ -1,0 +1,16 @@
+﻿@using WebTruyenTranh.Areas.Admin.Models
+@model AuthorModel
+
+@{
+    ViewData["Title"] = "Xóa tác giả";
+}
+
+<h2>Bạn có chắc chắn muốn xóa tác giả này?</h2>
+
+<h3>@Model.Name</h3>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="AuthorId" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

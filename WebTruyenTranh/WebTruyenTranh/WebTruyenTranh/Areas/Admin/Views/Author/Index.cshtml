@@ -1,0 +1,33 @@
+﻿@using WebTruyenTranh.Areas.Admin.Models
+@model List<AuthorModel>
+
+@{
+    ViewData["Title"] = "Danh sách tác giả";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a class="btn btn-primary" asp-action="Create">Thêm tác giả</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên Tác Giả</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var author in Model)
+        {
+            <tr>
+                <td>@author.AuthorId</td>
+                <td>@author.Name</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@author.AuthorId">Sửa</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@author.AuthorId">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

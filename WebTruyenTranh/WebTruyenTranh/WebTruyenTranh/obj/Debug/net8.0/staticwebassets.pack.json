@@ -1,988 +1,1528 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebTruyenTranh.bundle.scp.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebTruyenTranh.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebTruyenTranh.ndb92nrndw.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\css\\style.css",
-      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\material-dashboard.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\css\\style.min.css",
-      "PackagePath": "staticwebassets\\admin\\css\\style.min.css"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\material-dashboard.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\css\\style.min.css.map",
-      "PackagePath": "staticwebassets\\admin\\css\\style.min.css.map"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\material-dashboard.min.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\Inter-Black.woff2",
-      "PackagePath": "staticwebassets\\admin\\fonts\\Inter-Black.woff2"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\nucleo-icons.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\Inter-Bold.woff2",
-      "PackagePath": "staticwebassets\\admin\\fonts\\Inter-Bold.woff2"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\nucleo-svg.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\Inter-ExtraBold.woff2",
-      "PackagePath": "staticwebassets\\admin\\fonts\\Inter-ExtraBold.woff2"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.eot"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\Inter-ExtraLight.woff2",
-      "PackagePath": "staticwebassets\\admin\\fonts\\Inter-ExtraLight.woff2"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\Inter-Light.woff2",
-      "PackagePath": "staticwebassets\\admin\\fonts\\Inter-Light.woff2"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.ttf"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\Inter-Medium.woff2",
-      "PackagePath": "staticwebassets\\admin\\fonts\\Inter-Medium.woff2"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.woff"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\Inter-Regular.woff2",
-      "PackagePath": "staticwebassets\\admin\\fonts\\Inter-Regular.woff2"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\Inter-SemiBold.woff2",
-      "PackagePath": "staticwebassets\\admin\\fonts\\Inter-SemiBold.woff2"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo.eot"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\Inter-Thin.woff2",
-      "PackagePath": "staticwebassets\\admin\\fonts\\Inter-Thin.woff2"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo.ttf"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\demo.html",
-      "PackagePath": "staticwebassets\\admin\\fonts\\demo.html"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo.woff"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\fonts\\stylesheet.css",
-      "PackagePath": "staticwebassets\\admin\\fonts\\stylesheet.css"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\nucleo.woff2"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\Avatar.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\Avatar.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\apple-icon.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-2.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-2.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\bg-pricing.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bg-pricing.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-face-02.png",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-face-02.png"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bg-smart-home-1.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-face-02.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-face-02.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bg-smart-home-2.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-face-03.png",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-face-03.png"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bruce-mars.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-face-03.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-face-03.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\down-arrow-dark.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-face-04.png",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-face-04.png"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\down-arrow-white.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-face-04.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-face-04.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\down-arrow.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-face-05.png",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-face-05.png"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\drake.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\drake.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-face-05.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-face-05.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-illustrated-01.png",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-illustrated-01.png"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\home-decor-1.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-illustrated-01.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-illustrated-01.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\home-decor-2.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-illustrated-02.png",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-illustrated-02.png"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\home-decor-3.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-illustrated-02.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-illustrated-02.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\AU.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-illustrated-03.png",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-illustrated-03.png"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\BR.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-illustrated-03.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-illustrated-03.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\DE.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-illustrated-04.png",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-illustrated-04.png"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\GB.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\avatar\\avatar-illustrated-04.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\avatar\\avatar-illustrated-04.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\flags\\US.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\categories\\01.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\categories\\01.jpg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\chat.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\categories\\01.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\categories\\01.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\danger-chat-ill.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\categories\\02.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\categories\\02.jpg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\dark-lock-ill.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\categories\\02.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\categories\\02.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\error-404.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\categories\\03.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\categories\\03.jpg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\error-500.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\categories\\03.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\categories\\03.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-lock.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\categories\\04.jpg",
-      "PackagePath": "staticwebassets\\admin\\img\\categories\\04.jpg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-reset.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\categories\\04.webp",
-      "PackagePath": "staticwebassets\\admin\\img\\categories\\04.webp"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-signin.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\404.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\404.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-signup.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\2 User.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\2 User.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\illustration-verification.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\3-User-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\3-User-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\lock.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\3-User-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\3-User-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\pattern-tree.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Activity.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Activity.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\rocket-white.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\AddUser.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\AddUser.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\ivana-square.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Down.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Down.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\ivana-squares.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Down2.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Down2.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\ivancik.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Down3.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Down3.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kal-visuals-square.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-DownCircle.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-DownCircle.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logo-ct-dark.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-DownSquare.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-DownSquare.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logo-ct.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Left.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Left.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Left2.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Left2.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-nasa.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Left3.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Left3.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-netflix.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-LeftCircle.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-LeftCircle.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-LeftSquare.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-LeftSquare.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-spotify.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Right.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Right.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Right2.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Right2.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Right3.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Right3.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logos\\visa.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-RightCircle.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-RightCircle.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\marie.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-RightSquare.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-RightSquare.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\meeting.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Up.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Up.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\office-dark.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Up2.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Up2.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product-12.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-Up3.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-Up3.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-1-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-1-min.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-UpCircle.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-UpCircle.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-11.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrow-UpSquare.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrow-UpSquare.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-2-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-2-min.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Arrows-up-down.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Arrows-up-down.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-3-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-3-min.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Bag 3.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Bag 3.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-4-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-4-min.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Bag.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Bag.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-5-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-5-min.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Bookmark.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Bookmark.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-6-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-6-min.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Buy.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Buy.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-7-min.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-7-min.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Calendar.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Calendar.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-1.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Call Missed.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Call Missed.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-2.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Call Silent.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Call Silent.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-3.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Call.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Call.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-4.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Calling.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Calling.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\products\\product-details-5.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Camera.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Camera.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\shapes\\pattern-lines.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Category-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Category-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\shapes\\waves-white.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Category-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Category-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\bootstrap.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Chart.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Chart.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\creative-tim.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Chat.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Chat.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\devto.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Close Square.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Close Square.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\github.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Danger.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Danger.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\google-webdev.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Delete.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Delete.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\icon-bulb.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Discount.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Discount.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Discovery.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Discovery.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-asana.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Document-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Document-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-atlassian.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Document-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Document-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-invision.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Download.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Download.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-jira.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Edit Square.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Edit Square.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-slack.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Edit-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Edit-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-spotify.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Edit-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Edit-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\small-logos\\logo-xd.svg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Filter 2.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Filter 2.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Filter.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Filter.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Folder-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Folder-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Folder-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Folder-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Game.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Game.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\team-5.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Graph.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Graph.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\tesla-model-s.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\tesla-model-s.png"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Heart.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Heart.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\vr-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Hide.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Hide.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\core\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Home-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Home-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Home-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Home-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\core\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Image 3.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Image 3.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\material-dashboard.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Image-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Image-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\material-dashboard.js.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Image-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Image-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\material-dashboard.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Info Circle.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Info Circle.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\Chart.extension.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Info Square.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Info Square.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\bootstrap-notify.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Location.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Location.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Lock.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Lock.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Login.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Login.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\smooth-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Logout.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Logout.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugins\\world.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Menu-toggle-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Menu-toggle-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Menu-toggle-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Menu-toggle-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_accordion.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Message-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Message-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Message-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Message-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_avatars.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\More Circle.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\More Circle.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_backgrounds.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\More Square.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\More Square.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Notification-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Notification-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_breadcrumbs.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Notification.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Notification.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Paper Download.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Paper Download.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_cards-extend.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Paper Fail.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Paper Fail.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_cards.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Paper Negative.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Paper Negative.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_components.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_components.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Paper Plus.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Paper Plus.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_dark-version.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Paper Upload.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Paper Upload.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_dropdown-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_dropdown-extend.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Paper-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Paper-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Paper-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Paper-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_dropup.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Password.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Password.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_fixed-plugin.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Play.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Play.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_floating-elements.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_floating-elements.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Plus.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Plus.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Profile.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Profile.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Scan.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Scan.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Search.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Search.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Send.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Send.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Setting-gray.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Setting-gray.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_info-areas.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Setting-white.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Setting-white.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_list-check.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_list-check.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Settings-line.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Settings-line.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_misc-extend.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Shield Done.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Shield Done.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Shield Fail.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Shield Fail.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Show.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Show.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_navbar-vertical.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Star.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Star.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Swap.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Swap.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Tick Square.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Tick Square.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_popovers.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Ticket Star.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Ticket Star.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Ticket.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Ticket.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_ripple.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_ripple.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Time Square.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Time Square.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_rtl-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_rtl-extend.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\TimeCircle.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\TimeCircle.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_rtl.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Unlock.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Unlock.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_social-buttons.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Upload.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Upload.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Video.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Video.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_tilt.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Voice 3.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Voice 3.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_timeline.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Voice.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Voice.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_tooltips.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Volume Down.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Volume Down.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_typography.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Volume Off.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Volume Off.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_utilities-extend.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Volume Up.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Volume Up.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Wallet.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Wallet.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Bulk\\Work.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Bulk\\Work.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-circle.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-circle.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\GoogleDrive.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\GoogleDrive.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-dot.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-dot.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\Logo.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\Logo.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-floating.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\badges\\_badge-floating.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\baloon.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\baloon.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\badges\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\badges\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\customers.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\customers.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\dropbox.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\dropbox.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\image-frame.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\image-frame.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\move.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\move.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\radio.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\radio.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\img\\svg\\thumbnail.svg",
-      "PackagePath": "staticwebassets\\admin\\img\\svg\\thumbnail.svg"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\js\\scripts.js",
-      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\plugins\\chart.min.js",
-      "PackagePath": "staticwebassets\\admin\\plugins\\chart.min.js"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\plugins\\feather.min.js",
-      "PackagePath": "staticwebassets\\admin\\plugins\\feather.min.js"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\plugins\\feather.min.js.map",
-      "PackagePath": "staticwebassets\\admin\\plugins\\feather.min.js.map"
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-blog.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-horizontal.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-horizontal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-pricing.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-profile.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-profile.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_carousel-slick.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_carousel-slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_choices.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dragula.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dragula.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dropzone.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_glidejs.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_glidejs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_highlight.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_kanban.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_kanban.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_leaflet.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_leaflet.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_list-check.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_list-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_photoswipe.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_photoswipe.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_quill.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_quill.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_rating-widget.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_rating-widget.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_vector-map.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\_vector-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\multi-step.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\multi-step.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\plugins-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\plugins\\pro\\plugins-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\theme-pro.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\theme-pro.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_ripple.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\admin\\css\\Manga\\Index.css",
+      "PackagePath": "staticwebassets\\admin\\css\\Manga\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg",
-      "PackagePath": "staticwebassets\\uploads\\00c123cd-2a56-4dd5-83b0-63b8cc4584cc_img1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg",
-      "PackagePath": "staticwebassets\\uploads\\0814c94c-a78b-48cf-86b6-c313135a0016_img1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg",
-      "PackagePath": "staticwebassets\\uploads\\20730a1d-9e99-4e32-a678-8d448ec94462_img1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg",
-      "PackagePath": "staticwebassets\\uploads\\34509b01-f4bb-49ed-8bc1-f637e7a85abb_img1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\511110bf-b78f-4088-b451-7909997639ad_3.png",
-      "PackagePath": "staticwebassets\\uploads\\511110bf-b78f-4088-b451-7909997639ad_3.png"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg",
-      "PackagePath": "staticwebassets\\uploads\\5187f685-8a64-45c5-8de4-3651157a4a1a_img2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg",
-      "PackagePath": "staticwebassets\\uploads\\51cc7f3e-8415-43ef-af0e-414d44212f43_img2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\67492f07-a1ee-462f-a5a9-103d01b11171_452435043_2272410046431338_54045907679483825_n.jpg",
-      "PackagePath": "staticwebassets\\uploads\\67492f07-a1ee-462f-a5a9-103d01b11171_452435043_2272410046431338_54045907679483825_n.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg",
-      "PackagePath": "staticwebassets\\uploads\\6c4ae369-fd76-4ba6-8420-9ab453c948a3_img1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png",
-      "PackagePath": "staticwebassets\\uploads\\7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg",
-      "PackagePath": "staticwebassets\\uploads\\9196a23b-f72d-4dc4-a085-238cd91bb89f_img1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\afdc47aa-aaeb-46f3-9754-cbb7b1cb0236_452435043_2272410046431338_54045907679483825_n.jpg",
-      "PackagePath": "staticwebassets\\uploads\\afdc47aa-aaeb-46f3-9754-cbb7b1cb0236_452435043_2272410046431338_54045907679483825_n.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg",
-      "PackagePath": "staticwebassets\\uploads\\ceb53d40-43b4-46de-924a-19a9e2729e38_img2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg",
-      "PackagePath": "staticwebassets\\uploads\\dc7d22e4-d7dd-4b52-bffe-16b3d6d45704_img1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg",
-      "PackagePath": "staticwebassets\\uploads\\e54c2689-2d36-4492-81b7-c1a3cd28d90b_img1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png",
-      "PackagePath": "staticwebassets\\uploads\\eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg",
-      "PackagePath": "staticwebassets\\uploads\\eb26aa0f-d61f-4c2b-b824-ae7859d2f1db_img2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\wwwroot\\uploads\\nocover.png",
-      "PackagePath": "staticwebassets\\uploads\\nocover.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebTruyenTranh.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

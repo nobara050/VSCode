@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <Folder Include="uploads\" />
+    <Folder Include="wwwroot\admin\css\Manga\" />
     <Folder Include="wwwroot\admin\uploads\" />
     <Folder Include="wwwroot\css\" />
     <Folder Include="wwwroot\js\" />

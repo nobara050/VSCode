@@ -1,3 +1,1 @@
-C:\Users\nguye\Downloads\ASP_WEB\WebTruyenTranh\WebTruyenTranh\WebTruyenTranh\wwwroot\uploads\7bc36e14-d817-4bf9-885e-3a908bfe56d5_nocover.png
-C:\Users\nguye\Downloads\ASP_WEB\WebTruyenTranh\WebTruyenTranh\WebTruyenTranh\wwwroot\uploads\eb0aa553-68ce-46cc-a371-9f165400a81a_nocover.png
-C:\Users\nguye\Downloads\ASP_WEB\WebTruyenTranh\WebTruyenTranh\WebTruyenTranh\wwwroot\uploads\nocover.png
+C:\Users\ADMIN\Downloads\ASP_WEB\VSCode\WebTruyenTranh\WebTruyenTranh\WebTruyenTranh\wwwroot\uploads\nocover.png

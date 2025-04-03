@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|c:\\users\\nguye\\downloads\\asp_web\\webtruyentranh\\webtruyentranh\\webtruyentranh\\areas\\admin\\views\\manga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|solutionrelative:webtruyentranh\\areas\\admin\\views\\manga\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|c:\\users\\admin\\downloads\\asp_web\\vscode\\webtruyentranh\\webtruyentranh\\webtruyentranh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|solutionrelative:webtruyentranh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|c:\\users\\admin\\downloads\\asp_web\\vscode\\webtruyentranh\\webtruyentranh\\webtruyentranh\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|solutionrelative:webtruyentranh\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|c:\\users\\admin\\downloads\\asp_web\\vscode\\webtruyentranh\\webtruyentranh\\webtruyentranh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0233B6-B03D-48FC-ABBD-BD4EB798D752}|WebTruyenTranh\\WebTruyenTranh.csproj|solutionrelative:webtruyentranh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\Manga\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebTruyenTranh\\Areas\\Admin\\Views\\Manga\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nguye\\Downloads\\ASP_WEB\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\Manga\\Index.cshtml",
-              "RelativeToolTip": "WebTruyenTranh\\Areas\\Admin\\Views\\Manga\\Index.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwIkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenTranh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebTruyenTranh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T17:57:18.098Z",
+              "WhenOpened": "2025-04-03T07:58:08.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenTranh\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebTruyenTranh\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T07:47:30.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebTruyenTranh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\ASP_WEB\\VSCode\\WebTruyenTranh\\WebTruyenTranh\\WebTruyenTranh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebTruyenTranh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T07:21:06.07Z",
               "EditorCaption": ""
             }
           ]

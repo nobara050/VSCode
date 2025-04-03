@@ -1,7 +1,11 @@
+CREATE DATABASE MangaDB;
+GO
+USE MangaDB;
+
 CREATE TABLE Manga (
     MangaId INT IDENTITY(1,1) PRIMARY KEY,
     Title NVARCHAR(255) NOT NULL,
-    Description TEXT,
+    Description NVARCHAR(3000),
     CoverImage NVARCHAR(1000),
     BackgroundImage NVARCHAR(1000),
     Status NVARCHAR(50),
@@ -24,4 +28,14 @@ CREATE TABLE Content (
     ContentId INT,
     Image NVARCHAR(1000),
     PRIMARY KEY (MangaId, ChapterId, ContentId)
+);
+
+CREATE TABLE Genre (
+    GenreId INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(255) NOT NULL
+);
+
+CREATE TABLE Author (
+    AuthorId INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(255) NOT NULL
 );

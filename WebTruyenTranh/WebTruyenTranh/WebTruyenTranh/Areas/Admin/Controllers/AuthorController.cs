@@ -67,15 +67,18 @@ namespace WebTruyenTranh.Areas.Admin.Controllers
             return View(author);
         }
 
-        [HttpPost, ActionName("Delete")]
+        [HttpPost]
         public IActionResult DeleteConfirmed(int id)
         {
             var author = _context.Authors.Find(id);
-            if (author == null) return NotFound();
+            if (author == null)
+                return NotFound();
 
             _context.Authors.Remove(author);
             _context.SaveChanges();
-            return RedirectToAction(nameof(Index));
+
+            return Ok(); // AJAX sẽ nhận kết quả này
         }
+
     }
 }

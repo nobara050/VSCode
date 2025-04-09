@@ -67,16 +67,18 @@ namespace WebTruyenTranh.Areas.Admin.Controllers
             return View(genre);
         }
 
-        [HttpPost, ActionName("Delete")]
+        [HttpPost]
         public IActionResult DeleteConfirmed(int id)
         {
             var genre = _context.Genres.Find(id);
-            if (genre != null)
-            {
-                _context.Genres.Remove(genre);
-                _context.SaveChanges();
-            }
-            return RedirectToAction("Index");
+            if (genre == null)
+                return NotFound();
+
+            _context.Genres.Remove(genre);
+            _context.SaveChanges();
+
+            return Ok();
         }
+
     }
 }

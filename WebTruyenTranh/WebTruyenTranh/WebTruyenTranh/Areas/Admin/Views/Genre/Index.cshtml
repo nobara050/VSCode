@@ -1,29 +1,91 @@
 ﻿@using WebTruyenTranh.Areas.Admin.Models
 @model List<GenreModel>
 
-<h2>Danh sách thể loại</h2>
+@{
+    ViewData["Title"] = "Danh sách thể loại";
+}
 
-<a class="btn btn-success" href="/Genre/Create">➕ Thêm mới</a>
+<h2>@ViewData["Title"]</h2>
 
-<table class="table table-bordered mt-3">
-    <thead>
+<a class="btn btn-dark shadow-sm" asp-action="Create">Thêm thể loại</a>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
         <tr>
-            <th>#</th>
-            <th>Tên thể loại</th>
-            <th>Thao tác</th>
+            <th>ID</th>
+            <th>Tên Thể Loại</th>
+            <th style="width: 180px;">Hành động</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var genre in Model)
         {
-            <tr>
+            <tr id="genre-row-@genre.GenreId">
                 <td>@genre.GenreId</td>
                 <td>@genre.Name</td>
                 <td>
-                    <a class="btn btn-primary" href="/Genre/Edit/@genre.GenreId">✏ Sửa</a>
-                    <a class="btn btn-danger" href="/Genre/Delete/@genre.GenreId">🗑 Xóa</a>
+                    <a class="btn btn-sm btn-warning me-1" asp-action="Edit" asp-route-id="@genre.GenreId">
+                        <i class="bi bi-pencil-square"></i> Sửa
+                    </a>
+                    <button type="button" class="btn btn-sm btn-danger btn-delete"
+                            data-id="@genre.GenreId"
+                            data-name="@genre.Name">
+                        <i class="bi bi-trash"></i> Xóa
+                    </button>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+<!-- Modal xác nhận xóa (giống Author) -->
+<div class="modal fade" id="deleteModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header ">
+                <h5 class="modal-title" id="deleteModalLabel">Xác nhận xóa</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Đóng"></button>
+            </div>
+            <div class="modal-body">
+                Bạn có chắc chắn muốn xóa thể loại <strong id="genreName"></strong>?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Hủy</button>
+                <button type="button" class="btn btn-danger" id="confirmDeleteBtn">Xóa</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        let selectedId = 0;
+
+        $(document).ready(function () {
+            $('.btn-delete').on('click', function () {
+                selectedId = $(this).data('id');
+                const name = $(this).data('name');
+                $('#genreName').text(name);
+
+                const modal = new bootstrap.Modal(document.getElementById('deleteModal'));
+                modal.show();
+            });
+
+            $('#confirmDeleteBtn').on('click', function () {
+                $.ajax({
+                    url: '/Admin/Genre/DeleteConfirmed/' + selectedId,
+                    type: 'POST',
+                    success: function () {
+                        $('#genre-row-' + selectedId).fadeOut();
+                        const modal = bootstrap.Modal.getInstance(document.getElementById('deleteModal'));
+                        modal.hide();
+                    },
+                    error: function () {
+                        alert('Xóa thất bại!');
+                    }
+                });
+            });
+        });
+    </script>
+}
